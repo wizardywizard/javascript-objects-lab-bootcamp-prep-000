@@ -1,2 +1,1 @@
-function object(recipes){
-}
+var recipes={'food'}
