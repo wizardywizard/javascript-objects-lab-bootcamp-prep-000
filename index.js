@@ -1,4 +1,2 @@
-function object(recipes)
-  
-  
+function object(recipes){
 }
