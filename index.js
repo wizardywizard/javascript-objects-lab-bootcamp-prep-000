@@ -1,1 +1,1 @@
-var recipes={'food'}
+var recipes={'food'};
