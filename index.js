@@ -1,1 +1,4 @@
-var recipes="food"
+function recipes(object){
+  
+  
+}
