@@ -1,4 +1,4 @@
-function recipes(object){
+function object(recipes)
   
   
 }
