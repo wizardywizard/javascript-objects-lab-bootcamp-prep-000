@@ -1,5 +1,5 @@
 var recipes={food:"bread"};
-function updateObjectWithKeyAndValue(food,drink,wine){
+function updateObjectWithKeyAndValue(recipes,drink,wine){
   
   return object.assign({},{drink:'wine'})
   
